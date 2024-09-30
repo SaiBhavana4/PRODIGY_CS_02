@@ -33,7 +33,7 @@ Decryption: Reversing the operation returns the pixel values to (150, 100, 50).
 
 1)Clone the repository to your local machine:
 
-git clone https://github.com/your-username/Pixel_Manipulation_For_Image_Encryption.git
+git clone https://github.com/SaiBhavana4/Pixel_Manipulation_For_Image_Encryption.git
 
 2)Install the required dependencies using pip:
 
