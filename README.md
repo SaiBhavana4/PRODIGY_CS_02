@@ -42,3 +42,13 @@ pip install pillow numpy
 3)Navigate to the project directory:
 
 cd Pixel_Manipulation_For_Image_Encryption
+
+# Dependencies
+
+Pillow (PIL): A Python Imaging Library to handle image manipulation.
+
+NumPy: A powerful library for handling array-based operations, used here for pixel manipulation.
+
+# Disclaimer
+
+This tool is intended for educational purposes only. It should not be used for malicious activities. Always ensure you have the proper permissions when encrypting or decrypting any files.
