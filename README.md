@@ -1,4 +1,4 @@
-# Image Encryption and Decryption Tool
+# Pixel Manipulation for Image Encryption
 
 This Python project demonstrates a simple yet effective image encryption and decryption tool that manipulates pixel values. It allows users to encrypt and decrypt images by applying a mathematical transformation (shift) to each pixel based on a user-defined key.
 
